@@ -34,7 +34,7 @@ Jamoa
 Anvar Turdiyev — captain, model/CV logikasi (detection pipeline)
 Komiljon Matmurodov — ma'lumotlar va testlash (video annotatsiya, evaluate.py)
 Akbarbek Xaytbayev — website va hujjatlar (live demo, README)
-GitHub: [link] | Sayt: [live demo linki]
+GitHub:https://github.com/Anvar-dev07/wiut-cv-hackathon | Sayt: [live demo linki]
 Ma'lumot haqida eslatma
 Namuna videolar (samples/*.mp4) tashkilotchilar ko'rsatmasiga ko'ra ushbu repositoryga
 yuklanmagan.
